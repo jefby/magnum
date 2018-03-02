@@ -35,5 +35,6 @@
 #cmakedefine MAGNUM_TARGET_DESKTOP_GLES
 #cmakedefine MAGNUM_TARGET_WEBGL
 #cmakedefine MAGNUM_TARGET_HEADLESS
+#cmakedefine MAGNUM_TARGET_VK
 
 #endif
