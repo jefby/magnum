@@ -165,7 +165,12 @@ Lastly, a few utility executables are available:
 -   `distancefieldconverter` --- @ref magnum-distancefieldconverter executable
 -   `fontconverter` --- @ref magnum-fontconverter executable
 -   `imageconverter` --- @ref magnum-imageconverter executable
+<<<<<<< HEAD
 -   `gl-info` --- @ref magnum-gl-info executable
+=======
+-   `info` --- @ref magnum-info executable
+-   `vk-info` --- @ref magnum-vk-info executable
+>>>>>>> 95529c591... [wip] Vk: WIP magnum-vk-info utility.
 -   `al-info` --- @ref magnum-al-info executable
 
 Note that [each namespace](namespaces.html), all @ref Platform libraries and
